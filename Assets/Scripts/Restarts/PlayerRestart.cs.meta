@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 845f30ef1be900040bae2bdb84b6ca1b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - eventManager: {fileID: 11400000, guid: 269f8e91ebc2016469239234a9596867, type: 2}
+  - boots: {instanceID: 0}
+  - mario: {instanceID: 0}
+  - gameCamera: {instanceID: 0}
+  - marioAnimator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 402879c0a76f4e148a37329bb0bceae7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scoreText: {instanceID: 0}
+  - enemies: {instanceID: 0}
+  - marioAnimator: {instanceID: 0}
+  - marioAudio: {instanceID: 0}
+  - deathAudio: {instanceID: 0}
+  - marioDeath: {instanceID: 0}
+  - gameManager: {instanceID: 0}
+  - GameOverPanel: {instanceID: 0}
+  - gameOverText: {instanceID: 0}
+  executionOrder: 100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
